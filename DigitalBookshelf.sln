@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBookshelf", "DigitalBookshelf.csproj", "{0D30FF6A-C9F9-440F-89FC-175F0B9EEC0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBookshelfTests", "..\DigitalBookshelfTests\DigitalBookshelfTests.csproj", "{CFB964A8-F3E5-4A64-9C37-56145267B656}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0D30FF6A-C9F9-440F-89FC-175F0B9EEC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D30FF6A-C9F9-440F-89FC-175F0B9EEC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D30FF6A-C9F9-440F-89FC-175F0B9EEC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB964A8-F3E5-4A64-9C37-56145267B656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB964A8-F3E5-4A64-9C37-56145267B656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB964A8-F3E5-4A64-9C37-56145267B656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB964A8-F3E5-4A64-9C37-56145267B656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

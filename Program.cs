@@ -11,9 +11,8 @@ namespace DigitalBookshelf
             string userName = Console.ReadLine();
             Console.WriteLine($"Hello {userName}, what would you like to do?");
 
-            bool keepBrowsing;
             switch (keepBrowsing = true)
-            {
+            {       
                 default:
                     break;
             }
